@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Organ-Donation-Blockchain/static/css/main.1cb021d4.css",
+    "main.js": "/Organ-Donation-Blockchain/static/js/main.9a06f266.js",
+    "static/js/787.7f3f03ba.chunk.js": "/Organ-Donation-Blockchain/static/js/787.7f3f03ba.chunk.js",
+    "static/media/nav-logo.png": "/Organ-Donation-Blockchain/static/media/nav-logo.13044a858fdb67d4428f.png",
+    "index.html": "/Organ-Donation-Blockchain/index.html",
+    "main.1cb021d4.css.map": "/Organ-Donation-Blockchain/static/css/main.1cb021d4.css.map",
+    "main.9a06f266.js.map": "/Organ-Donation-Blockchain/static/js/main.9a06f266.js.map",
+    "787.7f3f03ba.chunk.js.map": "/Organ-Donation-Blockchain/static/js/787.7f3f03ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1cb021d4.css",
+    "static/js/main.9a06f266.js"
+  ]
+}
